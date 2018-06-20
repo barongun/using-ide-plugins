@@ -13,3 +13,8 @@
 ## Webstorm
 
 * [import-cost](https://github.com/denofevil/import-cost)
+
+
+## Visual Studio Code
+
+* [IntelliJ IDEA Keybindings](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings)
