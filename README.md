@@ -14,9 +14,11 @@
 
 * [import-cost](https://github.com/denofevil/import-cost)
 
+## JetBrain 공통
+* [Json-viewer](https://plugins.jetbrains.com/plugin/9679-json-viewer)
 
 ## Visual Studio Code
 
 * [IntelliJ IDEA Keybindings](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings)
 * [Vue Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=changjoo-park.vscode-vue-devpack)
-* [Json-viewer](https://plugins.jetbrains.com/plugin/9679-json-viewer)
+
